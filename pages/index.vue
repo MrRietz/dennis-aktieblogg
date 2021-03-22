@@ -1,8 +1,11 @@
 <template>
   <main>
     <section class="self-center flex flex-col flex-1 items-center justify-center">
-      <h1 class="title text-center">Nuxt — Tailwind — Netlify CMS</h1>
-      <h2 class="subtitle text-center">Boilerplate</h2>
+      <h1 class="title text-center">Välkommen till Dennis aktieblogg</h1>
+      <h2 class="subtitle text-center">
+        En ekonomiblogg som fokuserar på att ge inspiration och tips kring aktier, fonder & ETF:er. Let's get rich
+        together!
+      </h2>
     </section>
 
     <section class="mt-8">
